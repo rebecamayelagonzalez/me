@@ -15,7 +15,7 @@ struct ContentView: View {
                 Text("About Me")
                     .fontWeight(.ultraLight)
                 Text("Rebeca")
-                    .font(.largeTitle)
+                    .font(.title)
                     .fontWeight(.bold)
                 Text("Gonzalez")
                     .font(.largeTitle)
